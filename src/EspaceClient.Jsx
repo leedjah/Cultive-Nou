@@ -1,4 +1,4 @@
-import React from "react";
+import EspaceClient from './EspaceClient.jsx';
 
 const EspaceClient = () => {
   return (
